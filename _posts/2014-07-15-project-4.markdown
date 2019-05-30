@@ -2,11 +2,10 @@
 layout: default
 modal-id: 4
 date: 2017-07-15
-img: game.png
+img: Gamepad.png
 alt: image-alt
 project-date: July 2017
 client: UFRGS
 category: Game Development
-link: https://github.com/luiscosta89/LightPath
-description: Game Project developed with Bruno Grisci for the "Projeto em Computação Gráfica" class for Computer Science Degree at UFRGS.
+description: Game Project named <a href="https://github.com/luiscosta89/LightPath">Light Path</a> developed with Bruno Grisci for the "Projeto em Computação Gráfica" class for Computer Science Degree at UFRGS.
 ---
