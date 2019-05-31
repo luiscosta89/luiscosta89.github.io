@@ -7,5 +7,5 @@ alt: image-alt
 project-date: July 2017
 client: UFRGS
 category: Game Development
-description: Game Project named <a href="https://github.com/luiscosta89/LightPath">Light Path</a> developed with Bruno Grisci for the "Projeto em Computação Gráfica" class for Computer Science Degree at UFRGS.
+description: Game Project named <a href="https://github.com/luiscosta89/LightPath">Light Path</a> developed with <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4030846T9">Bruno Iochins Grisci</a> for the "Projeto em Computação Gráfica" class for the Computer Science Degree at UFRGS.
 ---
