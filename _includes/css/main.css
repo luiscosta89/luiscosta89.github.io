@@ -454,5 +454,12 @@ footer .footer-below {
 
 .image-icon {
     width: auto;
-    max-height: 250px;
+    max-height: 175px;
+}
+
+@media(min-width:576px) {
+    .image-icon {
+        width: auto;
+        max-height: 200px;
+    }
 }
