@@ -111,29 +111,29 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
-        padding-bottom: 100px;
+        padding-top: 150px;
+        padding-bottom: 50px;
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 2.5em;
     }
 
     header .intro-text .skills {
-        font-size: 1.75em;
+        font-size: 1.5em;
     }
 }
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 10px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 1.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -196,15 +196,10 @@ section.success {
 }
 
 #portfolio .portfolio-item {
-    right: 0;
-    margin: 0 0 15px;
+    margin-top: 40px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
-    display: block;
-    position: relative;
-    margin: 0 auto;
-    max-width: 400px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -244,12 +239,6 @@ section.success {
 
 #portfolio * {
     z-index: 2;
-}
-
-@media(min-width:767px) {
-    #portfolio .portfolio-item {
-        margin: 0 0 30px;
-    }
 }
 
 .btn-outline {
@@ -454,4 +443,16 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.image-icon {
+    width: auto;
+    max-height: 175px;
+}
+
+@media(min-width:576px) {
+    .image-icon {
+        width: auto;
+        max-height: 200px;
+    }
 }
