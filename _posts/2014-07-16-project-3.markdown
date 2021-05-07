@@ -5,7 +5,6 @@ date: 2015-07-16
 img: Clock.png
 alt: image-alt
 project-date: March 2015
-client: Start Bootstrap
-category: Web Development
+category: Game Development
 description: Project of a 2D Game using Microsoft XNA with C# named <a href="/luiscosta89/cs567">Endless Quest</a> for the CS567 class at Western Illinois University.
 ---
